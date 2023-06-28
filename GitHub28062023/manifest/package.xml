@@ -32,5 +32,10 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+     <types>
+        <members>Account.Test1__c </members>
+        <name>CustomField</name>
+     </types>
+
     <version>57.0</version>
 </Package>
