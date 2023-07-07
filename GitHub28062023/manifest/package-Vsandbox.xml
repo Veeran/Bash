@@ -32,13 +32,13 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
-     <types>
+     <types> Test IS FINISHED
         <members>Account.Test1__c </members>
         <name>CustomField</name>
      </types> -->
 <types>
         <members>Account.Staircasing_Completion_Fee__c </members>
         <name>CustomField</name>
-  </types>
+</types>
     <version>57.0</version>
 </Package>

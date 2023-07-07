@@ -37,7 +37,7 @@
         <name>CustomField</name>
      </types> -->
 <types>
-        <members>Account.Test1__c </members>
+        <members>Account.Staircasing_Completion_Fee__c </members>
         <name>CustomField</name>
   </types>
     <version>57.0</version>
